@@ -1,2 +1,2 @@
-== Cahier de suivi du projet de Lucas Jauffret
+== Cahier de suivi du projet de Lucas Jauffret==
 
