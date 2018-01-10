@@ -8,7 +8,7 @@ Notre objectif est de contrôler une main robot via un gants pour quelle reprodu
 Durant cette première séance nous avons cherché ce qui a déja été fait.
 
 
-*Séance du 10 Janvier 2018
+* Séance du 10 Janvier 2018
 
 Durant cette séance j'ai cherché si il n'y avait pas des ressources permetant de pouvoir imprimer une main correspodant à notre but.
 Mon attention c'est arreté sur http://inmoov.fr/hand-and-forarm/
