@@ -5,7 +5,7 @@ Cahier de suivi du projet de Lucas Jauffret
 J'ai formé un groupe de travail avec Valentin Campello. 
 Notre objectif est de contrôler une main robot via un gants pour quelle reproduise le mouvement de la main ( ouverture/fermeture des doigts).
 
-Durant cette première séance nous avons cherché ce qui a déja été fait.
+Durant cette première séance nous avons cherché ce qui a déja été fait pour commencer a réfléchir pour notre réalisation.
 
 
 * Séance du 10 Janvier 2018
