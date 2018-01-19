@@ -9,7 +9,7 @@ Handuino
 
 Description du projet 
 ===========================
-Notre projet est de contrôler une main robot via un gants.
+Notre projet est de contrôler une main robot via un gant.
 La communication entre les deux éléments se fait sans fils.
 
 Materiel
