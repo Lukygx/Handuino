@@ -2,7 +2,7 @@
 
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia
 
-#Handuino
+Handuino
 ==========================
 
-![Image](C:\Users\user\Desktop\projet\maxresdefault)
+![Image](C:\Users\user\Desktop\projet\maxresdefault.png)
