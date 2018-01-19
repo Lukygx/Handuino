@@ -5,4 +5,4 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Handuino
 ==========================
 
-![Image](C:\Users\user\Desktop\projet\photo.jpg?raw=true)
+![Image]()
