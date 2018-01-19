@@ -6,3 +6,15 @@ Handuino
 ==========================
 
 ![Image](https://github.com/Lukygx/Handuino/blob/master/Ressources/photo.jpg)
+
+Description du projet 
+===========================
+Notre projet est de contrôler une main robot via un gants.
+La communication entre les deux éléments se fait sans fils.
+
+Materiel
+==========================
+Nous utilisons dans notre projet:
+* 2 cartes ATmega328p X plained mini
+* Le bras open-source (http://inmoov.fr/hand-and-forarm/)
+* Un gant pour contrôler le bras
