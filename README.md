@@ -5,7 +5,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Handuino
 ==========================
 
-![Image](https://github.com/Lukygx/Handuino/blob/master/Ressources/photo.jpg)
+![Image](https://github.com/Lukygx/Handuino/blob/master/Ressources/photos/photo.jpg)
 
 Description du projet 
 ===========================
