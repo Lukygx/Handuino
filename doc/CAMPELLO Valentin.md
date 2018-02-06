@@ -17,3 +17,7 @@ trouvé Lucas, qui liste en plus le matériel nécessaire pour pouvoir la constr
 guide j'ai regardé la vidéo expliquant comment les doigts étaient reliés au servomoteur car je n'avait pas compris comment ils 
 pouvaient se détendre après avoir été tiré par le servomoteur.
 En fin de scéance Lucas et moi nous sommes concertés et avons dressé une liste des composants nécessaires à notre projet.
+
+* Séance du 17 Janvier 2018
+
+Pendant cette séance j'ai recherché et téléchargé un logiciel pour créer des schémas arduinos et j'ai créer un schéma pour la présentation de la semaine suivante puis nous avons organisé cette présentation.
