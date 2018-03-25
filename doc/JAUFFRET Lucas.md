@@ -15,3 +15,17 @@ En fin de Séance nous avons commencé à dresser une liste de composants dont n
 * Séance du 19 Janvier 2018
 
 Durant cette séance j'ai tracé le schéma du montage électrique pour le gant. Après discussions avec Monsieur Ferrero, il n'est peut être pas utile d'utiliser des modules radios pour la communication mais des modules bluetooth. En fin de séance nous nous sommes concertés avec Valentin pour faire un listing des tâches que nous aurons à faire pour la réalisation du projet pour pouvoir faire un embryon de planning.
+
+* Séance du 6 Février 2018
+
+Durant cette séance nous avons reçus la quasi totatalité, voir la totatalité de ce que nous avons besoin. J'en ai donc profité pour voir si l'integralité des servos n'étaient pas défectueux. Ma prochaine séance sera dédiée à la partie programmation de la main. 
+
+* Séance du 19 Février 2018
+
+Comme prévu, durant cette séance, je me suis occupé du programme pour la main. Pour le test, les servos sont pilotés par des potentiomètres.
+Les deux programmes fonctionnants idépendamment, nous pourrons ,avec valentin, nous pencher sur la communication des deux supports.
+
+* Séance du 12 Mars 2018
+
+Cette séance a été dédiée au module radio. Nous n'avons pas réussi à les faires fonctionner/communiquer entre eux.
+Peut-être parce que les antennes n'étaient pas soudées ? bien que dans la manière dont nous avons tenter de les utiliser ça n'aurait pas dû poser problème.
