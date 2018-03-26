@@ -18,7 +18,7 @@ Durant cette séance j'ai tracé le schéma du montage électrique pour le gant.
 
 * Séance du 6 Février 2018
 
-Durant cette séance nous avons reçus la quasi totatalité, voir la totatalité de ce que nous avons besoin. J'en ai donc profité pour voir si l'integralité des servos n'étaient pas défectueux. Ma prochaine séance sera dédiée à la partie programmation de la main. 
+Durant cette séance nous avons reçus la quasi totalité, voir la totalité de ce que nous avons besoin. J'en ai donc profité pour voir si l'integralité des servos n'étaient pas défectueux. Ma prochaine séance sera dédiée à la partie programmation de la main. 
 
 * Séance du 19 Février 2018
 
@@ -27,5 +27,5 @@ Les deux programmes fonctionnants idépendamment, nous pourrons ,avec valentin, 
 
 * Séance du 12 Mars 2018
 
-Cette séance a été dédiée au module radio. Nous n'avons pas réussi à les faires fonctionner/communiquer entre eux.
-Peut-être parce que les antennes n'étaient pas soudées ? bien que dans la manière dont nous avons tenter de les utiliser ça n'aurait pas dû poser problème.
+Cette séance a été dédiée aux modules radio. Nous n'avons pas réussi à les faires fonctionner/communiquer entre eux.
+Peut-être parce que les antennes n'étaient pas soudées ? bien que dans la manière dont nous avons tenté de les utiliser, ça n'aurait pas dû poser problème.
