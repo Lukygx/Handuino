@@ -23,7 +23,7 @@ Durant cette séance nous avons reçus la quasi totalité, voir la totalité de 
 * Séance du 19 Février 2018
 
 Comme prévu, durant cette séance, je me suis occupé du programme pour la main. Pour le test, les servos sont pilotés par des potentiomètres.
-Les deux programmes fonctionnants idépendamment, nous pourrons ,avec valentin, nous pencher sur la communication des deux supports.
+Les deux programmes fonctionnants idépendamment, nous pourrons, avec Valentin, nous pencher sur la communication des deux supports.
 
 * Séance du 12 Mars 2018
 
