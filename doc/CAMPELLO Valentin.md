@@ -33,3 +33,17 @@ Pendant cette scéance j'ai fait ma partie de code c'est à dire celle des rési
 * Scéance du 12 Mars 2018
 
 Echec cuisant lors de la tentative de communication entre les arduinos avec les modules radio malgré un tuto sur internet. 
+
+* Scéance du 26 Mars 2018
+
+Révision de notre diaporama pour la présentations puis présentations de mi-parcourt
+
+* Scéance du 5 Avril 2018
+Echainement d'essai pour communiquer avec les modules radios soldés par des échecs puis d'une réussite lorsque qu'on appuit sur les fils. Nous décidons donc de souder les fils aux modules radios à la scéance d'après.
+
+* Scéance du 9 Avril 2018
+
+Pendant cette scéance nous avons soudé les fils aux modules radios puis nous avons fait des tests qui ont tous été concluants.
+
+*Scéna
+
