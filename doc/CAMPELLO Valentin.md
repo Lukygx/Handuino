@@ -39,11 +39,14 @@ Echec cuisant lors de la tentative de communication entre les arduinos avec les 
 Révision de notre diaporama pour la présentations puis présentations de mi-parcourt
 
 * Scéance du 5 Avril 2018
+
 Echainement d'essai pour communiquer avec les modules radios soldés par des échecs puis d'une réussite lorsque qu'on appuit sur les fils. Nous décidons donc de souder les fils aux modules radios à la scéance d'après.
 
 * Scéance du 9 Avril 2018
 
 Pendant cette scéance nous avons soudé les fils aux modules radios puis nous avons fait des tests qui ont tous été concluants.
 
-*Scéna
+* Scéance du 2 Mai 2018
+
+Nous avons soudés des fils sur les résistances puis testé pour voir si les résistances fonctionnaient toujours puis nous avons essayer de faire bouger un servomoteur en communiquant les valeurs de tension des résistances flexibles, ce qui à échoué.
 
