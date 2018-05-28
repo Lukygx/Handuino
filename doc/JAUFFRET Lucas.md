@@ -29,3 +29,23 @@ Les deux programmes fonctionnants idépendamment, nous pourrons, avec Valentin, 
 
 Cette séance a été dédiée aux modules radio. Nous n'avons pas réussi à les faires fonctionner/communiquer entre eux.
 Peut-être parce que les antennes n'étaient pas soudées ? bien que dans la manière dont nous avons tenté de les utiliser, ça n'aurait pas dû poser problème.
+
+* Séance du 26 Mars 2018
+
+Révision de la présentation de mi-parcourt
+
+* Séance du 5 Avril 2018
+
+Durant cette séance nous avons poursuivi les tests au niveau de la communiquation, il faut souder les fils.
+
+* Séance du 9 Avril 2018 
+
+Après avoir soudé les fils nous avons fait une batterie de test qui se sont montré concluant. La communication est fonctionnelle.
+Nous avons aussi
+
+* Séance du 2 Mai 2018
+
+Durant cette séance nous avons tester de faire bouger un servo moteur en fonction d'une résistance fléxible à l'aide de la communication.
+Le test n'a pas été concluant. les valeurs envoyer lors de la communication non pas l'air d' être traité.
+
+
