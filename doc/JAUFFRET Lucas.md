@@ -41,11 +41,14 @@ Durant cette séance nous avons poursuivi les tests au niveau de la communiquati
 * Séance du 9 Avril 2018 
 
 Après avoir soudé les fils nous avons fait une batterie de test qui se sont montré concluant. La communication est fonctionnelle.
-Nous avons aussi
+
 
 * Séance du 2 Mai 2018
 
 Durant cette séance nous avons tester de faire bouger un servo moteur en fonction d'une résistance fléxible à l'aide de la communication.
 Le test n'a pas été concluant. les valeurs envoyer lors de la communication non pas l'air d' être traité.
 
+*Séance du 7 mai 2018 
 
+Durant cette séance nous avons essayer de faire le montage complet. Sauf que les servos moteurs ne fonctionnaient pas.
+C'est a cause de l'alimentation, celle de l'arduino ne suffit pas.
