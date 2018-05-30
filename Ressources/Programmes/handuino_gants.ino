@@ -6,7 +6,7 @@ SoftwareSerial HC12(2, 3); // HC-12 TX Pin, HC-12 RX Pin
 int boutonCalibrage=4;
 int led=5;
 
-int ResThumb   = A4;  // Variables of the analog read form the flex sensors connected to the analog pins of Arduino LilyPad
+int ResThumb   = A4;  
 int ResIndex   = A3;  
 int ResMiddle  = A2;
 int ResAnnular = A1;
