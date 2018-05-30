@@ -48,7 +48,7 @@ Après avoir soudé les fils nous avons fait une batterie de test qui se sont mo
 Durant cette séance nous avons tester de faire bouger un servo moteur en fonction d'une résistance fléxible à l'aide de la communication.
 Le test n'a pas été concluant. les valeurs envoyer lors de la communication non pas l'air d' être traité.
 
-*Séance du 7 mai 2018 
+* Séance du 7 mai 2018 
 
 Durant cette séance nous avons essayer de faire le montage complet. Sauf que les servos moteurs ne fonctionnaient pas.
 C'est a cause de l'alimentation, celle de l'arduino ne suffit pas.
