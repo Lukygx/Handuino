@@ -50,3 +50,6 @@ Pendant cette scéance nous avons soudé les fils aux modules radios puis nous a
 
 Nous avons soudés des fils sur les résistances puis testé pour voir si les résistances fonctionnaient toujours puis nous avons essayer de faire bouger un servomoteur en communiquant les valeurs de tension des résistances flexibles, ce qui à échoué.
 
+* Scéance du 7 Mai 2018
+
+Cette scéance nous avons testé les servomoteurs à part puis avec les résistances flexibles pour essayer de comprendre d'où venait le problème, après plusieurs test nous en avons déduis qu'il nous fallait une source d'alimentation plus puissante et capable de faire bouger nos 5 servomoteurs.
