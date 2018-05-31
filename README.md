@@ -18,3 +18,4 @@ Nous utilisons dans notre projet:
 * 2 cartes ATmega328p X plained mini
 * Le bras open-source (http://inmoov.fr/hand-and-forarm/)
 * Un gant pour contrôler le bras
+* vidéo de démonstration (https://www.youtube.com/watch?v=UiRPEx0Jd4A&feature=youtu.be)
